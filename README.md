@@ -19,9 +19,8 @@
           
 
 
-# Segue meus contatos: 
+#Contatos: 
 <div>
-  <a href='https://www.linkedin.com/in/iury-chiganer/' ></a>
-  <a href='https://www.instagram.com/iurychiganer/?hl=en' ></a>
-    
+  <a href='https://www.linkedin.com/in/iury-chiganer/'  target="_blank">Linkedin</a>
+  <a href='https://www.instagram.com/iurychiganer/?hl=en'  target="_blank">Instagran</a> 
 </div>
