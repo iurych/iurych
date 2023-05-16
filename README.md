@@ -11,7 +11,7 @@
 - 🌱Estou aprendendo as seguintes tecnologias: 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height = '100px' width = '100px' /> </ br>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height = '100px' width = '100px' />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height = '100px' width = '100px' /> </ br>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  height = '100px' width = '100px' />
 </div>
 
