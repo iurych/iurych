@@ -21,5 +21,7 @@
 
 # Segue meus contatos: 
 <div>
-  <a> href='https://www.linkedin.com/in/iury-chiganer/' </a>
+  <a href='https://www.linkedin.com/in/iury-chiganer/' ></a>
+  <a href='https://www.instagram.com/iurychiganer/?hl=en' ></a>
+    
 </div>
