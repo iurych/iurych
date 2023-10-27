@@ -5,9 +5,6 @@
 # Sou Desenvolvedor Full-stack !!
 # Seja muito bem vindo ao meu github. 
 
-
-- 🔭 Atualmente estou tabalhando na criação do meu portfólio, para apresentar meus projetos à comunidade dev.
-
 - 🌱Estou aprendendo as seguintes tecnologias: 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height = '100px' width = '100px' />
