@@ -5,6 +5,11 @@
 # Sou Desenvolvedor Full-stack !!
 # Seja muito bem vindo ao meu github. 
 
+<div>
+ <a href='https://github.com/iurych'>
+ <img height='180em' src='https://github-readme-stats.vercel.app/api?username=iurych&show_icons=true&theme=radical&include_all_commits=true&count_private=true'>
+</div>
+
 - 🌱Estou aprendendo as seguintes tecnologias: 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height = '100px' width = '100px' />
