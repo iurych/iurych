@@ -12,7 +12,9 @@ on:
   push:
     branches:
     - main
-      
+    
+  
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,7 +25,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: iurych
+          github_user_name: AravindaJogi
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
