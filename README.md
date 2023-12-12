@@ -1,9 +1,7 @@
-### Hi there 👋
-
 # Olá, meu nome é Iury Chiganer. 
 
-# Sou Desenvolvedor Full-stack !!
-# Seja muito bem vindo ao meu github. 
+## Sou Desenvolvedor Full-stack.
+### Seja muito bem vindo ao meu github. 
 
 <div>
  <a href='https://github.com/iurych'>
