@@ -42,4 +42,4 @@
    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white > 
   </a> 
 </div>
-![snake gif](https://github.com/iurych/iurych/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/iurych/iurych/blob/output/github-snake-dark.svg)
