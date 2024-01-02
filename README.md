@@ -48,4 +48,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/iurych/iurych/blob/output/github-snake-dark.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![snake gif](https://github.com/iurych/iurych/blob/output/github-snake-dark.svg)
+
