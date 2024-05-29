@@ -13,7 +13,7 @@
 <div style="display:flex">
     <img align='center' height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <span style="color:grey; height:'40px' width='10px' " > . </span>
-    <img align='center' height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+    <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg"/>
     <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
     <span style="color:grey; height:'40px' width='10px' " > . </span>
