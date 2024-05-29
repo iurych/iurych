@@ -25,8 +25,6 @@
     <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <span style="color:grey; height:'40px' width='10px' " > . </span>
-    <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg"/>
-    <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
