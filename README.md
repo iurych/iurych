@@ -1,7 +1,7 @@
 # Hi, my name is Iury Chiganer. 
 
 ## You're welcome to my github.
-### I'm a Web Developer. 
+### I'm a Software Engineer. 
 
 <div>
  <a href='https://github.com/iurych'>
