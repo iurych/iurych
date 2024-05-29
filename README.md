@@ -31,7 +31,7 @@
     <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" />
     <span style="color:grey; height:'40px' width='10px' " > . </span>
-    <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastify/fastify-plain.svg" />
+    <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastify/fastify-plain-wordmark.svg" />
     <span style="color:grey; height:'40px' width='10px' " > . </span>
     <img align='center' height='50px' width='50px' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
     <span style="color:grey; height:'40px' width='10px'" > . </span>
